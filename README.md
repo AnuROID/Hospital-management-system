@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🏥 Hospital Management System</h1>
+  <h1 align="center"> Hospital Management System</h1>
   <p align="center">A secure hospital web app with token-based authentication using Laravel Sanctum.</p>
 </p>
 
