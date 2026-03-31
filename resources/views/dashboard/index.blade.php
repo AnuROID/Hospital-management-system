@@ -18,10 +18,8 @@
 
         <h1 class="text-3xl font-bold mb-6">Dashboard</h1>
 
-        <!-- Stats Cards -->
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
 
-            <!-- Total Doctors -->
             <div class="bg-gray-800 p-6 rounded-2xl shadow hover:scale-105 transition">
                 <h2 class="text-gray-400 text-sm">Total Doctors</h2>
                 <p class="text-3xl font-bold mt-2 text-blue-400">
@@ -29,7 +27,6 @@
                 </p>
             </div>
 
-            <!-- Today's Appointments -->
             <div class="bg-gray-800 p-6 rounded-2xl shadow hover:scale-105 transition">
                 <h2 class="text-gray-400 text-sm">Today's Appointments</h2>
                 <p class="text-3xl font-bold mt-2 text-green-400">
@@ -37,7 +34,6 @@
                 </p>
             </div>
 
-            <!-- Pending -->
             <div class="bg-gray-800 p-6 rounded-2xl shadow hover:scale-105 transition">
                 <h2 class="text-gray-400 text-sm">Pending</h2>
                 <p class="text-3xl font-bold mt-2 text-yellow-400">
@@ -45,7 +41,6 @@
                 </p>
             </div>
 
-            <!-- Completed -->
             <div class="bg-gray-800 p-6 rounded-2xl shadow hover:scale-105 transition">
                 <h2 class="text-gray-400 text-sm">Completed</h2>
                 <p class="text-3xl font-bold mt-2 text-purple-400">
@@ -55,10 +50,8 @@
 
         </div>
 
-        <!-- Extra Section -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-8">
 
-            <!-- Doctors Info -->
             <div class="bg-gray-800 p-6 rounded-2xl shadow">
                 <h2 class="text-xl font-semibold mb-4">Doctors Overview</h2>
                 <p class="text-gray-400">
@@ -69,7 +62,6 @@
                 </a>
             </div>
 
-            <!-- Appointments Info -->
             <div class="bg-gray-800 p-6 rounded-2xl shadow">
                 <h2 class="text-xl font-semibold mb-4">Appointments</h2>
                 <p class="text-gray-400">

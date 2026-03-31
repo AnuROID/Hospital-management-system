@@ -9,7 +9,6 @@
     <form action="/appointments" method="POST" class="space-y-4">
         @csrf
 
-        <!-- Doctor Dropdown -->
         <select name="doctor_id" class="w-full p-2 bg-gray-800 rounded">
             @foreach($doctors as $doctor)
                 <option value="{{ $doctor->id }}">
